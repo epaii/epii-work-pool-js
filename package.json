@@ -1,0 +1,11 @@
+{
+    "name": "epii-work-pool",
+    "version": "2.0.0",
+    "description": "最简单的工作池",
+    "main": "src/index.js",
+    "scripts": {},
+    "author": "MrRen",
+    "license": "ISC",
+    "dependencies": {},
+    "typings": "src/index.d.ts"
+}
